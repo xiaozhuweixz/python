@@ -12,15 +12,17 @@ import getpass
 #         continue;
 #     else:
 #         print(i)
-x = 1
-y = 0
-while True:
-     y = y + x
-     #print(x)
-     if x == 100:
-        break
-     x += 1
-     print(y)
+# x = 1
+# y = 0
+# while True:
+#      y = y + x
+#      #print(x)
+#      if x == 100:
+#         break
+#      x += 1
+#      print(y)
+
+
 
 
 
