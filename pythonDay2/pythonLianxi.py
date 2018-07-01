@@ -23,6 +23,12 @@ import getpass
 #      print(y)
 
 
+s1,s2,s3 = ['111','3333','4444']
+
+print(s1,s2,s3)
+
+
+
 
 
 
